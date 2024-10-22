@@ -1,0 +1,11 @@
+Class: A blueprint for creating objects (instances).
+It defines attributes (properties) and methods (functions) that the objects created from the class will have.
+
+Object: An instance of a class, containing specific values for the attributes defined in the class.
+
+Attributes: Variables that belong to a class or object. These define the state or properties of an object.
+
+Methods: Functions that belong to a class. These define the behaviors that objects of the class can perform.
+
+Example:
+

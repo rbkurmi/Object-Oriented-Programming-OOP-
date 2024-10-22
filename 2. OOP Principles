@@ -1,0 +1,9 @@
+Inheritance: This allows a new class (child) to inherit the attributes and methods of an existing class (parent).
+
+Encapsulation: Bundling data (attributes) and methods that operate on that data within one unit (class).
+It restricts direct access to some of an object’s components, usually through access modifiers like private or protected.
+
+Polymorphism: It allows different classes to be treated as instances of the same class through a common interface.
+Methods in different classes can have the same name but behave differently.
+
+Abstraction: Hides the complex implementation details and shows only the essential features of an object.

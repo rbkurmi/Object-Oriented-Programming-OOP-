@@ -1,0 +1,4 @@
+Access Modifiers (Public, Protected, Private)
+Public: Accessible from anywhere.
+Protected: Accessible within the class and its subclasses (conventionally indicated with a single underscore _).
+Private: Accessible only within the class itself (indicated with double underscores __).
